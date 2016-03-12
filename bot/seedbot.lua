@@ -225,7 +225,6 @@ function create_config( )
     "all",
     "leave_ban",
     "admin"
-    "9gag",
     "Add",
     "Add_Bot",
     "Alireza",
