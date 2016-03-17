@@ -322,6 +322,7 @@ function create_config( )
     "vote",
     "weather", 
     "baba",
+    "text_voice".
     },
     sudo_users = {119707014},--Sudo users
     disabled_channels = {},
